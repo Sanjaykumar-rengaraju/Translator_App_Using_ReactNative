@@ -1,5 +1,5 @@
 The translator app built by using ReactNative with the help of translatorpro.api from rapidAPI.
-<p style="align : center;">
+<p align = "center">
 <img src="https://github.com/Sanjaykumar-rengaraju/Translator_App_Using_ReactNative/assets/139142050/72fd08a8-078e-47f3-b0f2-f7485dc41194" width=250px height=500px/>
 </p>
 
