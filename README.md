@@ -10,3 +10,8 @@ To start the app, do the following steps
 
 Check the app at Expo Go using the following url,
 exp://u.expo.dev/update/c9d46703-1fae-4b9d-b779-cc455fee6ce9
+
+or
+<p align="center">
+<img src="https://github.com/Sanjaykumar-rengaraju/Translator_App_Using_ReactNative/assets/139142050/d405c88b-9415-41f1-ba16-4981b37758d9" width=150px height=150px/>
+</p>
